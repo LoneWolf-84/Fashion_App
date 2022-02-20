@@ -1,2 +1,2 @@
-# Fashion Shop App - Flutter
+Fashion Shop App
 
